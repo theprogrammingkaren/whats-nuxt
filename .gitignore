@@ -3,6 +3,9 @@ bin-debug/
 bin-release/
 [Oo]bj/
 [Bb]in/
+node_modules/
+.nuxt/
+.DS_Store
 
 # Other files and folders
 .settings/
