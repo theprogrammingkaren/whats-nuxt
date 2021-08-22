@@ -6,6 +6,8 @@ bin-release/
 node_modules/
 .nuxt/
 .DS_Store
+coverage/
+dist/
 
 # Other files and folders
 .settings/
